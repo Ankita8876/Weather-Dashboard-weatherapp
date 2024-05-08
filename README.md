@@ -23,6 +23,8 @@ The dashboard has the following components
 
 ## ***The API Key value is present inside the EnvironmentVariables.ts file inside Environment folder where you need to generate your API key from WeatherAPI.com and use that key value inside that file and run the project.
 
+<img width="958" alt="EnvironmentVariables" src="https://github.com/Ankita8876/Weather-Dashboard-weatherapp/assets/40633906/8f7b485d-77a4-4b2d-970e-6597361177bb">
+
     
 
 ## Development server
