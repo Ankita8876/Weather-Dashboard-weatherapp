@@ -15,15 +15,19 @@ The dashboard has the following components
 2.The right-container component consists of all the HTML codes and the typescript logic for the right-hand side (background color light yellow) of the dashboard.
 3.Models component consists of all the data models and their types to extract those data from the weather API JSON payload.
 4.Services component consists of the weather.service.ts file which consists of all the business logics to transfer the data from Client API to Dashboard UI
-5.Environment Variables consists of the API key name and the API key value which needs to be taken from the weatherAPI.com and pasted there. ***The API Key value is present 6.inside the EnvironmentVariables.ts file inside Environment folder where you need to use your API key value and run the project.
+5.Environment Variables consists of the API key name and the API key value which needs to be taken from the weatherAPI.com and pasted there. 
+## ***The API Key value is present inside the EnvironmentVariables.ts file inside Environment folder where you need to generate your API key from WeatherAPI.com and use that key value inside that file and run the project.
 7.Flaticons for icons , CSS , images are used in the dashboard.
 8.HttpClientModule is imported and used for calling APIs from WeatherAPI.com
 9.Fonts are used from FontAwesome and google font as well.
-  Use ng serve --open to execute the project.
+    
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## **node_modules folder might not be added in the github. Please add it manually in the project.
+## Use ng serve --open to execute the project.
 
 ## Code scaffolding
 
