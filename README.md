@@ -50,6 +50,10 @@ mkdir node_modules
 
 ## Use ng serve --open to execute the project.
 
+## The Weather Dashboard :
+<img width="959" alt="DashboardUI" src="https://github.com/Ankita8876/Weather-Dashboard-weatherapp/assets/40633906/ba7a8722-86f3-4056-bbcc-8dabff06178a">
+
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
