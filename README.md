@@ -6,7 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 A powerful responsive weather dashboard is being designed and developed using Angular JAVA(Version : 17.3.7), HTML, CSS , bootstrap and WeatherAPIs to call the weather calls in the UI
 
-The dashboard enables the user to locate any location's weather in the search placeholder. The dashboard shows the current weather for the searched location, including current temperature, hourly temperature for the current day and also weekly forecast for upcoming days' weather. It gives a detailed information on UV index, Wind Status, Sunrise, Sunset, Humidity, Visibility and Air Quality. The dashboard has a special functionality of seeing the weather temperature in both Celsius and Fahrenheit degree. The dashboard has used WeatherAPIs (https://www.weatherapi.com/) to call the weather calls to the UI. The dashboard is completely owned by me. The APIs used in this project are: 1.http://api.weatherapi.com/v1/search.json 2.http://api.weatherapi.com/v1/forecast.json
+The dashboard enables the user to locate any location's weather in the search placeholder. The dashboard shows the current weather for the searched location, including current temperature, hourly temperature for the current day and also weekly forecast for upcoming days' weather. It gives a detailed information on UV index, Wind Status, Sunrise, Sunset, Humidity, Visibility and Air Quality. The dashboard has a special functionality of seeing the weather temperature in both Celsius and Fahrenheit degree. The dashboard has used WeatherAPIs (https://www.weatherapi.com/) to call the weather calls to the UI. The dashboard is completely owned by me. The APIs used in this project are: 1.http://api.weatherapi.com/v1/search.json 
+2.http://api.weatherapi.com/v1/forecast.json
 
 ## Architecture and the angular materials used in this dashboard  
 The dashboard has the following components
@@ -19,6 +20,9 @@ The dashboard has the following components
 6.Flaticons for icons , CSS , images are used in the dashboard.
 7.HttpClientModule is imported and used for calling APIs from WeatherAPI.com
 8.Fonts are used from FontAwesome and google font as well.
+
+
+<img width="245" alt="Components" src="https://github.com/Ankita8876/Weather-Dashboard-weatherapp/assets/40633906/faa4051e-d7b5-4f1e-9707-4cf086614c3f">
 
 
 ## ***The API Key value is present inside the EnvironmentVariables.ts file inside Environment folder where you need to generate your API key from WeatherAPI.com and use that key value inside that file and run the project.
