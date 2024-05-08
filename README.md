@@ -35,7 +35,19 @@ The dashboard has the following components
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## **node_modules folder might not be added in the github. Please add it manually in the project(if in case its not present).
+## **node_modules folder might not be added in the github as it is a large folder. Please add it manually in the project(if in case its not present).
+To create a node_modules folder, you will need to have Node.js and npm (Node package manager) installed on your system. Here are the steps to create a node_modules folder:
+
+Open your command line interface (CLI) such as Command Prompt or Terminal.
+
+Navigate to the directory where you want to create the node_modules folder using the cd command. For example, if you want to create the folder in your project directory, you can use the following command:
+
+cd path/to/your/project/directory
+
+Once you are in the desired directory, you can create the node_modules folder by running the following command:
+
+mkdir node_modules
+
 ## Use ng serve --open to execute the project.
 
 ## Code scaffolding
